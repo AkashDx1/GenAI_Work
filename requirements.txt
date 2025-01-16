@@ -4,3 +4,4 @@ streamlit
 scikit-learn
 pypdf2
 wordcloud
+nltk
