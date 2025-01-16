@@ -2,6 +2,7 @@ pandas
 numpy
 streamlit
 scikit-learn
-pypdf2
+PyPDF2
 wordcloud
 nltk
+matplotlib
